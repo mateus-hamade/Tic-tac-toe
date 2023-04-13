@@ -22,4 +22,4 @@
 
 ![image](img/frist_screenshot.png)
 
-![image](img/second_screenshot.png.png)
+![image](img/second_screenshot.png)
