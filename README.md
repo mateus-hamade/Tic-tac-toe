@@ -12,10 +12,8 @@
 - Executando o código 🚀
 ```
 >> npx tailwindcss -i ./src/style/input.css -o ./dist/output.css --watch
-
 ```
 
-Observação!
-```
-Se quiser modificar o código, será necessário executar o comando acima. Caso contrário, basta executar o live server.
-```
+❗ Observação
+
+- Se quiser modificar o código, será necessário executar o comando acima. Caso contrário, basta executar o live server.
