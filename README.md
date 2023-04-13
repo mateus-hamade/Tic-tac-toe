@@ -17,3 +17,9 @@
 ❗ Observação
 
 - Se quiser modificar o código, será necessário executar o comando acima. Caso contrário, basta executar o live server.
+
+### Imagens do projeto 📷
+
+![image](img/frist_screenshot.png)
+
+![image](img/second_screenshot.png.png)
